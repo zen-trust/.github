@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Zen Trust Logo" src="./logo.png" />
+  <img alt="Zen Trust Logo" src="https://raw.githubusercontent.com/zen-trust/.github/main/profile/logo.png" />
 </p>
 
 Zen Trust
